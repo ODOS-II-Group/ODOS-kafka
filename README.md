@@ -8,7 +8,7 @@ Start application
 
 Invoke endpoint
 
-    http://localhost:8080/api/helloworld/10
+    http://localhost:8111/api/helloworld/10
 
 Message will be posted and consumed by application (logged in console)
 
